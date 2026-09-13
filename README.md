@@ -14,3 +14,8 @@ Learning GIS for spatial data analyses
  using satellite imagery b04 and b08; comparing differences between 2023 and 2026 
 <img width="3509" height="2480" alt="05_ndvi_vegetation_losses_2023_2026_page-0001" src="https://github.com/user-attachments/assets/e297314a-1fa9-4b0a-bc1a-7a7495dbfca2" />
 
+**13.09.2026** Historical Map Georeferencing & Digitization (Belgrade)
+Georeferenced a historical topographic map using 5 Ground Control Points (GCPs) to accurately align with a modern OpenStreetMap basemap (EPSG:3857).
+Applied Polynomial 1 transformation with Nearest Neighbour resampling, and cleaned raster artifacts (white margins) using custom pixel transparency settings.
+Created a new polygon Shapefile to manually digitize historical forest boundaries directly from the georeferenced raster.
+<img width="1110" height="735" alt="Screenshot_georeference_belgrade_13_9_26" src="https://github.com/user-attachments/assets/53efba66-786f-45db-96d8-80181ddc9435" />

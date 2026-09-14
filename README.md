@@ -19,3 +19,5 @@ Georeferenced a historical topographic map using 5 Ground Control Points (GCPs) 
 Applied Polynomial 1 transformation with Nearest Neighbour resampling, and cleaned raster artifacts (white margins) using custom pixel transparency settings.
 Created a new polygon Shapefile to manually digitize historical forest boundaries directly from the georeferenced raster.
 <img width="1110" height="735" alt="Screenshot_georeference_belgrade_13_9_26" src="https://github.com/user-attachments/assets/53efba66-786f-45db-96d8-80181ddc9435" />
+
+**14.10.2026** atlas function

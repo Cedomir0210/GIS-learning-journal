@@ -20,4 +20,11 @@ Applied Polynomial 1 transformation with Nearest Neighbour resampling, and clean
 Created a new polygon Shapefile to manually digitize historical forest boundaries directly from the georeferenced raster.
 <img width="1110" height="735" alt="Screenshot_georeference_belgrade_13_9_26" src="https://github.com/user-attachments/assets/53efba66-786f-45db-96d8-80181ddc9435" />
 
-**14.10.2026** atlas function
+**14.09.2026** atlas function
+
+
+**15.09>2026** 
+HEC-RAS 7 Environment Setup & Terrain Processing (Rača River)
+Configured a new HEC-RAS 7 project environment and established the strict metric spatial reference system (EPSG:32634 / UTM Zone 34N) using a WKT projection file.
+Imported a raw 30m SRTM Digital Elevation Model (GeoTIFF) into RAS Mapper and successfully compiled the foundational 3D terrain model (HDF format) for the upcoming hydraulic simulation.
+<img width="1730" height="896" alt="Screenshot_reka_raca_" src="https://github.com/user-attachments/assets/c5763ba6-227d-46b5-852f-b7d1b16e59f6" />

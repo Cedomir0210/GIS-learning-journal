@@ -28,3 +28,7 @@ HEC-RAS 7 Environment Setup & Terrain Processing (Rača River)
 Configured a new HEC-RAS 7 project environment and established the strict metric spatial reference system (EPSG:32634 / UTM Zone 34N) using a WKT projection file.
 Imported a raw 30m SRTM Digital Elevation Model (GeoTIFF) into RAS Mapper and successfully compiled the foundational 3D terrain model (HDF format) for the upcoming hydraulic simulation.
 <img width="1730" height="896" alt="Screenshot_reka_raca_" src="https://github.com/user-attachments/assets/c5763ba6-227d-46b5-852f-b7d1b16e59f6" />
+
+
+**21.09.2026**
+HEC-RAS marking a Raca riverbed 

@@ -32,3 +32,6 @@ Imported a raw 30m SRTM Digital Elevation Model (GeoTIFF) into RAS Mapper and su
 
 **21.09.2026**
 HEC-RAS marking a Raca riverbed 
+
+**4.10.2026**
+HEC-RAS Raca riverbed and cross sections

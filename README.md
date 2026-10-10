@@ -29,13 +29,16 @@ Configured a new HEC-RAS 7 project environment and established the strict metric
 Imported a raw 30m SRTM Digital Elevation Model (GeoTIFF) into RAS Mapper and successfully compiled the foundational 3D terrain model (HDF format) for the upcoming hydraulic simulation.
 <img width="1730" height="896" alt="Screenshot_reka_raca_" src="https://github.com/user-attachments/assets/c5763ba6-227d-46b5-852f-b7d1b16e59f6" />
 
-
-
-
-
-
 **21.09.2026**
 HEC-RAS marking a Raca riverbed 
 
+
 **4.10.2026**
 HEC-RAS Raca riverbed and cross sections
+
+**09.10.2026** 
+Configured HEC-RAS channel geometry, applied Manning's n roughness coefficients, and successfully executed a steady mixed-flow hydraulic simulation.
+
+
+
+

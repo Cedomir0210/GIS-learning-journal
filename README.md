@@ -39,6 +39,7 @@ HEC-RAS Raca riverbed and cross sections
 **09.10.2026** 
 Configured HEC-RAS channel geometry, applied Manning's n roughness coefficients, and successfully executed a steady mixed-flow hydraulic simulation.
 
-
+**10.10.2026** 
+Configured a 1D steady mixed-flow hydraulic model for the Rača river canyon in HEC-RAS and visualized the resulting inundation map in QGIS.
 
 

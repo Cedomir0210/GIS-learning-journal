@@ -42,4 +42,5 @@ Configured HEC-RAS channel geometry, applied Manning's n roughness coefficients,
 **10.10.2026** 
 Configured a 1D steady mixed-flow hydraulic model for the Rača river canyon in HEC-RAS and visualized the resulting inundation map in QGIS.
 
-
+**19.10.2026** 
+Successfully configured and stabilized a 2D unsteady flow HEC-RAS model for the Rača canyon, and exported the maximum flood extent map for QGIS analysis

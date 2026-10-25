@@ -44,3 +44,7 @@ Configured a 1D steady mixed-flow hydraulic model for the Rača river canyon in 
 
 **19.10.2026** 
 Successfully configured and stabilized a 2D unsteady flow HEC-RAS model for the Rača canyon, and exported the maximum flood extent map for QGIS analysis
+
+**25.10.2026**
+<img width="3507" height="2480" alt="raca_500_SLIKA" src="https://github.com/user-attachments/assets/a770058a-bd7f-4518-9937-4ce4ead41f34" />
+
